@@ -1,0 +1,73 @@
+Project Scope 
+
+This is an introduction of a simple Java Employee Payroll Management System (Payroll System) using SQLITE database  that was developed using Java Netbeans. Furthermore the use of GUI components to achieve this project are as follows:
+
+JButton,JTable,IText,JComboBox, JLabel,JRadioButton, JFrame,JPanel,Image Icons, JTextField.
+
+Functions used
+Add Record
+Deleted Record
+Update Record
+Clear Fields
+Login
+Logout
+Date & Time
+PDF
+
+Objective of Java Payroll Project Employee Management System.
+
+The main objective of the Java Project on Payroll Management System is to manage the details of Employees, Payments, Salary. It also manages all information about the Employee, Payroll and Salary Slips. The project is totally built at administrator end of things. Only the administrator is guaranteed the access. The purpose of the project is to build an application that reduces the manual work and it can be used as a school project.
+
+Functionalists provided by the Java Project on Employee Payroll Management System.
+
+1- Provides search facility such as searching for Employees, Salaries and reports.
+2- Tracks all salaries and employee payments.
+3- Stores all information about employees to a secure Sql database.
+4- Generates reports using iText.
+5- Manages all information of Employees.
+6- Simple GUI.
+7- Editing, adding, deleting and updating records couldn't be easier.
+8- Manages all information of employees salaries.
+9- Uploading Pictures of Employees.
+10- Audit Trail to monitor activities.
+11- Manages all information of employee payslips.
+12- Manages all information of employee allowance.
+13- Manages all information of employee deduction.
+
+Report generation.
+
+1- It generates reports of all employees, Payments and salary slips.
+2- You can easily export PDF for employee , Payroll, Payslips , 
+Allowance and deduction records.
+3. Save PDF to any location.
+
+In the tutorials you will learn.
+
+• How to setup sqlite database connection
+• How to develop a secure login system 
+• How to insert an image, data & time to login JFrame
+• How to add buttons & logos to buttons
+• How to Add, delete and update a record to the database
+• How to create a logout button 
+• How to get the user id from the database when the user is logged 
+• How to search for employee by id,name,surname and date of birth
+• How to set JFrame to pop in the middle of the screen
+• How to insert image to label
+• How to clear all text fields 
+• How to fit image to label size 
+• How to add data to JTable 
+• How to generate PDF
+• How to save PDF to any location
+• How to setup and save PDF through file dialog 
+• How to calculate employee allowance
+• How to calculate employee deduction 
+• How to add a JTable to PDF 
+• How to add a header to PDF
+• How to add data and time to PDF 
+• How to insert database information to PDF 
+• How to bold JTable values in PDF using 
+• How to change font colour in PDF using 
+
+
+
+
